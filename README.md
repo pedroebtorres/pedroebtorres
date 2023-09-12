@@ -2,7 +2,7 @@
 
 ## About me
 
-<img align="right" src="">
+<img align="right" src="/images/pedroebtorres.jpeg">
 
 <!--
 **pedroebtorres/pedroebtorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
