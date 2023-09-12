@@ -2,7 +2,11 @@
 
 ## About me
 
-<img align="right" src="/images/pedroebtorres.jpeg">
+<img align="right" src="/images/pedroebtorres.jpeg" width="200px">
+
+My name is Pedro Torres. I live in Cacoal, a small town in Rondônia, Brazil. I had my first exposure to coding when I started to study Materials Engineering, after that I fell in love with it, then I decided to join Trybe and dedicate to coding.
+
+In my free time, I like to run (🏃), I like to study foreign languages (📚) , I like to read philoshophy books (📚) and, sometimes, I like to watch some series (🎞️).
 
 <!--
 **pedroebtorres/pedroebtorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
