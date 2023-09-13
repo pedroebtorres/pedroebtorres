@@ -19,8 +19,32 @@ In my free time, I like to run (🏃), I like to study foreign languages (📚) 
   
 </p>
 
-<!--
-**pedroebtorres/pedroebtorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Languages & Tecnologies</h3>
+<ul>
+  <li>JavaScript</li>
+  <li>React.js</li>
+  <li>Hooks</li>
+  <li>Context</li>
+  <li>Redux</li>
+  <li>Node.js</li>
+  <li>Express</li>
+  <li>REST</li>
+  <li>TypeScript</li>
+  <li>Jest & RTL</li>
+  <li>Chai & Mocha</li>
+  <li>HTML & CSS</li>
+  <li>TailwindCSS</li>
+  <li>Docker</li>
+  <li>MySQL</li>
+  <li>Sequelize</li>
+  <li>Git & GitHub</li>  
+</ul>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,ts,jest,html,css,tailwind,sequelize,mysql,docker,git,github,vsc" />
+  </a>
+</p>
+<!--  pedroebtorres/pedroebtorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -33,3 +57,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+react nodejs express jest mysql github css tailwind
+
+
+
+js react nodejs express ts html css tailwind sequelize jest
+
+mysql
+
+docker git github
