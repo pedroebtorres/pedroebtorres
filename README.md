@@ -44,6 +44,21 @@ In my free time, I like to run (🏃), I like to study foreign languages (📚) 
     <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,ts,jest,html,css,tailwind,sequelize,mysql,docker,git,github,vsc" />
   </a>
 </p>
+
+<h2>GitHub Stats</h2>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pedroebtorres&theme=dracula" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroebtorres&theme=dracula" /></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
 <!--  pedroebtorres/pedroebtorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -57,12 +72,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-react nodejs express jest mysql github css tailwind
-
-
-
-js react nodejs express ts html css tailwind sequelize jest
-
-mysql
-
-docker git github
