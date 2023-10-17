@@ -19,16 +19,6 @@ In my free time, I like to run (🏃), I like to study foreign languages (📚) 
   
 </p>
 
-<h3 align="center">Currently Learning</h3>
-<ul>
-  <li>Python</li>
-</ul>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py" />
-  </a>
-</p>
-
 <h3 align="center">Languages & Tecnologies</h3>
 <ul>
   <li>JavaScript</li>
@@ -52,6 +42,16 @@ In my free time, I like to run (🏃), I like to study foreign languages (📚) 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,ts,jest,html,css,tailwind,sequelize,mysql,docker,git,github,vsc" />
+  </a>
+</p>
+
+<h3 align="center">Currently Learning</h3>
+<ul>
+  <li>Python</li>
+</ul>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py" />
   </a>
 </p>
 
