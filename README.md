@@ -19,6 +19,16 @@ In my free time, I like to run (🏃), I like to study foreign languages (📚) 
   
 </p>
 
+<h3 align="center">Currently Learning</h3>
+<ul>
+  <li>Python</li>
+</ul>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py" />
+  </a>
+</p>
+
 <h3 align="center">Languages & Tecnologies</h3>
 <ul>
   <li>JavaScript</li>
