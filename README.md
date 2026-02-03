@@ -19,12 +19,10 @@ In my free time, I like to run (🏃), I like to study foreign languages (📚) 
   
 </p>
 
-<h3 align="center">Languages & Tecnologies</h3>
+<h3 align="center">Languages & Technologies</h3>
 <ul>
   <li>JavaScript</li>
   <li>React.js</li>
-  <li>Hooks</li>
-  <li>Context</li>
   <li>Redux</li>
   <li>Node.js</li>
   <li>Express</li>
@@ -32,39 +30,31 @@ In my free time, I like to run (🏃), I like to study foreign languages (📚) 
   <li>TypeScript</li>
   <li>Jest & RTL</li>
   <li>Chai & Mocha</li>
-  <li>HTML & CSS</li>
   <li>TailwindCSS</li>
   <li>Docker</li>
   <li>MySQL</li>
   <li>Sequelize</li>
-  <li>Git & GitHub</li>  
+  <li>Git & GitHub</li>
+  <li>Java</li>
+  <li>Spring</li>
 </ul>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,ts,jest,html,css,tailwind,sequelize,mysql,docker,git,github,vsc" />
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,ts,jest,tailwind,sequelize,mysql,docker,git,github,java,spring" />
   </a>
 </p>
 
 <h3 align="center">Currently Learning</h3>
 <ul>
   <li>Python</li>
+  <li>Java</li>
+  <li>Spring</li>
 </ul>
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py" />
+    <img src="https://skillicons.dev/icons?i=py,java,spring" />
   </a>
 </p>
-
-<h2>GitHub Stats</h2>
-
-<table>
-  <tbody>
-    <tr>
-      <td><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pedroebtorres&theme=dracula" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroebtorres&theme=dracula" /></td>
-    </tr>
-  </tbody>
-</table>
 
 
 
