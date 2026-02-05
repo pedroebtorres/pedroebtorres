@@ -6,7 +6,7 @@
 
 My name is Pedro Torres. I live in Cacoal, a small town in Rondônia, Brazil. My first encounter with coding came during my studies in Materials Engineering, where I delved into the world of C and C++. It was during this time that my fascination with coding ignited, sparking a deep passion within me. This newfound love led me to make a pivotal decision—to embark on a journey with Trybe and fully dedicate myself to the art of coding.
 
-In my free time, I like to run (🏃), I like to study foreign languages (📚) , I like to read philoshophy books (📚) and, sometimes, I like to watch some series (🎞️).
+In my free time, I like to run (🏃), to study foreign languages (📚) , to read philoshophy books (📚) and, sometimes, to watch some series (🎞️).
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedroebtorres">
