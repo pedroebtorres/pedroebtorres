@@ -46,13 +46,12 @@ In my free time, I like to run (🏃), to study foreign languages (📚) , to re
 
 <h3 align="center">Currently Learning</h3>
 <ul>
-  <li>Python</li>
   <li>Java</li>
   <li>Spring</li>
 </ul>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,spring" />
+    <img src="https://skillicons.dev/icons?i=java,spring" />
   </a>
 </p>
 
